@@ -50,7 +50,7 @@
     <Reference Include="mscorlib" />
     <Reference Include="FSharp.Core" />
     <Reference Include="suave">
-      <HintPath>..\..\suave\Suave\bin\Release\suave.dll</HintPath>
+      <HintPath>..\lib\suave.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
@@ -58,7 +58,7 @@
     <Reference Include="System.Net" />
     <Reference Include="System.Numerics" />
     <Reference Include="Taggen">
-      <HintPath>..\..\Taggen\Taggen\bin\Release\Taggen.dll</HintPath>
+      <HintPath>..\lib\Taggen.dll</HintPath>
     </Reference>
   </ItemGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
